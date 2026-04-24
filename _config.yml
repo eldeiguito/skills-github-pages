@@ -1,0 +1,4 @@
+theme: minima
+author: {{ login }}
+title: el blog de {{login}}
+description: el blog más pulento
